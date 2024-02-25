@@ -11,4 +11,3 @@ Aqui estão alguns dos conhecimentos que adquiri ao fazer este jogo:
 - Desenvolver diferentes níveis.
 - Adicionar animação ao personagem e objetos
 
-Vídeo assistido para realizar este jogo:  [Unreal Engine 5 Beginner Tutorial - Creating your First Game with Blueprints](https://www.youtube.com/watch?v=uyp1I4HJJBg)
